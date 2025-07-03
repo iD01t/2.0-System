@@ -226,15 +226,3 @@ RA7/
 * Add multiple personas or backends using the modular config
 * Run the app headless (no UI) using `python3 conscious_desktop_assistant.py --cli`
 
----
-
-## ✅ Ready to Add in README.md
-
-This section is production-ready. Next step:
-
-**👉 Would you like me to generate the PDF page 2 with this full installation guide?**
-Or embed directly in the GitHub README and push format?
-
-Just say:
-**“Create PDF 2nd page”** or **“Add to GitHub repo”**.
-
